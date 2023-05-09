@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'dc9d93a76d3d4019b58a4d9471d3adab',
+  rootNotionPageId: 'a80bf956337e4a12898752e09d3ee3f1',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Blog powered by complianceAlliance.com',
-  domain: 'https://battle-system-a34.notion.site/complianceAlliance-com-dc9d93a76d3d4019b58a4d9471d3adab',
+  domain: 'https://battle-system-a34.notion.site/notion-heros-a80bf956337e4a12898752e09d3ee3f1',
   author: 'Thomas Yang',
 
   // open graph metadata (optional)
