@@ -9,17 +9,17 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Blog powered by complianceAlliance.com',
   domain: 'https://battle-system-a34.notion.site/notion-a80bf956337e4a12898752e09d3ee3f1',
-  author: 'Travis Fischer',
+  author: 'Thomas Yang',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'thomas_yang_1984',
+  github: 'thomas_yang_1984',
+  linkedin: 'thomas_yang_1984',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
